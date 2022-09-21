@@ -1,7 +1,7 @@
 ### Erick Goldberg 
 
 
-- Estudando atualmente: HTML5, CSS3, Java, C# e JavaScript.
+- Estudando atualmente: JavaScript, HTML5, CSS3, Java.
 - Estou procurando vagas de estágio.
 - Contato: erick_goldberg@hotmail.com
 
