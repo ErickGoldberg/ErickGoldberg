@@ -13,6 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGoldberg&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  ##
+  
 <br>
 <div>
  <img align="center" alt="Erick-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +23,3 @@
   <img align="center" alt="Erick-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">        
   <img align="center" alt="Erick-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-##
-
-![Snake animation](https://github.com/ErickGoldberg/ErickGoldberg/blob/output/github-contribution-grid-snake.svg)
