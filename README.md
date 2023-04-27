@@ -1,6 +1,6 @@
 ### Erick Goldberg 
 
-- Estudando atualmente: Next.Js, React.Js, Node.Js, HTML5, CSS3, Java.
+- Estudando atualmente: React.Js, SQL, Node.Js, HTML5, CSS3, Java, python.
 - Contato: erick_goldberg@hotmail.com
 
 <div align="center">
