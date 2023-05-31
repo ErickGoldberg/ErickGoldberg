@@ -1,6 +1,6 @@
 ### Erick Goldberg 
 
-- Estudando atualmente: React.Js, SQL, Node.Js, HTML5, CSS3, Java, python.
+- Estudando atualmente: React.Js, TypeScript, Node.Js, Java, python, SQL, MongoDB, AWS.
 - Contato: erick_goldberg@hotmail.com
 
 <div align="center">
