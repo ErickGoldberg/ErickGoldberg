@@ -1,6 +1,6 @@
 ### Erick Goldberg 
 
-- Estudando atualmente: Vue.Js, TypeScript, C#, .NET, ASP.NET, SQL, MongoDB, AWS.
+- Estudando atualmente: C#, .NET, ASP.NET, SQL, MongoDB, TypeScript, AWS.
 - Contato: erick_goldberg@hotmail.com
 
 <div align="center">
