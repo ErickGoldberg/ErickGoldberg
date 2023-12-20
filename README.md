@@ -1,6 +1,6 @@
 ### Erick Goldberg 
 
-- Estudando atualmente: C#, .NET, ASP.NET, SQL, MongoDB, TypeScript, AWS.
+- Estudando atualmente: C#, .NET, SQL, MongoDB, Testes, ASP.NET, TypeScript, AWS.
 - Contato: erick_goldberg@hotmail.com
 
 <div align="center">
