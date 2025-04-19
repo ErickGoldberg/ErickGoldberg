@@ -1,24 +1,45 @@
-### Erick Goldberg 
+## 👋 I'm Erick Goldberg!
 
-- Estudando atualmente: C#, .NET, SQL, MongoDB, Testes, ASP.NET, TypeScript, AWS.
-- Contato: erick_goldberg@hotmail.com
+.NET Developer | Systems Architecture Student | Focused on becoming a Software Architect 
+
+I currently work as a .NET developer, with experience in creating scalable and efficient solutions using technologies such as AWS, Azure, RabbitMQ, MongoDB, ElasticSearch, and SQL Server.  
+I'm pursuing a postgraduate degree in .NET Systems Architecture, and my goal is to become a software architect, applying clean architecture principles and microservices to build robust, high-performance systems.
+
+I'm always looking for new challenges, knowledge, and diverse experiences — constantly adapting and learning every day.
+
+---
+
+### 🛠️ Technologies & Tools
+
+**Back-end**  
+.NET | ASP.NET | Testing (NUnit, Moq, FluentAssertions) | Microservices | Event-driven | Docker | Kubernetes | API Gateway (Kong, Azure, Ocelot)
+
+**Databases**  
+SQL Server | MongoDB | ElasticSearch | Redis
+
+**Cloud**  
+- **AWS**: EC2 | S3 | Lambda | DynamoDB | SQS | API Gateway  
+- **Azure**: App Services | Functions | AKS | Blob Storage
+
+**Front-end**  
+React | Vue.js
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/ErickGoldberg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickGoldberg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGoldberg&layout=compact&langs_count=7&theme=dark"/>
-</div>  
-  
-<br>
-  
-<div>
- <img align="center" alt="Erick-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Erick-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erick-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Erick-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">        
-  <img align="center" alt="Erick-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickGoldberg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGoldberg&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
-  ##
-  
-  <a href="https://www.linkedin.com/in/erick-goldberg/">![image](https://user-images.githubusercontent.com/101414912/167420441-7f9f9cae-9bb8-429d-9669-6ecd396ff5f2.png)<a/>
+---
+
+### 📫 Contact
+
+📧 erick_goldberg@hotmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/erick-goldberg/)
+
+---
